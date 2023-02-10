@@ -8,17 +8,17 @@ Developer dev = new Developer("Juan");
 while (dev.isInFrontOfComputer()) {
 
   dev.openBrowser();
-  dev.readDocs();
+  dev.listenSongs();
   dev.tryCodeInIDE();
-  dev.feelLikeAProfessionalDeveloper();
+  dev.feelLikeAProDeveloper();
 
 }
 ```
 
 [![Github](https://img.shields.io/github/followers/juanf1990?label=Github&style=social)](https://github.com/juanf1990)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juanf1990)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-frontend)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juanandres15@gmail.com)
-[![Twitter](https://img.shields.io/twitter/follow/juanf1990?label=Twitter&style=social)](https://twitter.com/juanf1990/)
+[![Twitter](https://img.shields.io/twitter/follow/juanf1990?label=Twitter&style=social)](https://twitter.com/JuanAndresF1990)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=juanf1990.juanf1990)](https://github.com/juanf1990/)
 <a target="_blank" href="https://www.codewars.com/users/juanf1990"><img src="https://www.codewars.com/users/juanf1990/badges/micro" alt="Codewars Badge" /></a>
 
@@ -27,18 +27,18 @@ while (dev.isInFrontOfComputer()) {
 
 #### 💼 Things that I'm currently working on:
 
-- Learning Web: React at the [School of Code]("https://github.com/SchoolOfCode")
+- Learning Web: Full Stack Web Developer at [OpenClassRoom]("https://github.com/OpenClassrooms")
 - Looking forward to take a Python 🐍 course in future.
 - Better organising and documenting my respositories.
-- [Portfolio](https://react-portafolio-two.vercel.app/)
+- [Portfolio](https://challenge-rouge.vercel.app/)
 
 #### 🌱 Challenges that I’m currently challenging myself:
 
-- Improve my knowledge of code:man_technologist: 2-3 hours a day. ( One or two day off a week )
-- Read:newspaper: Dev and Tech articles daily.
+- Improve my knowledge of code:man_technologist: 2-3 hours a day. ( two day off a week )
+- Read:computer: Dev and Tech articles regularly.
 - Workout:weight_lifting_man: 3 days a week.
-- Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:.
-- Adapting the minimalism & Health life style.
+- Avoid spending too much time Scrolling on Apps:skull_and_crossbones:.
+- Adapting the minimalism & a healthy life style.
 
 #### :computer: Programming languages and tools:
 
