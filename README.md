@@ -27,10 +27,10 @@ while (dev.isInFrontOfComputer()) {
 
 #### 💼 Things that I'm currently working on:
 
-- Learning Web: Full Stack Web Developer at [OpenClassRoom]("https://github.com/OpenClassrooms")
 - Looking forward to take a Python 🐍 course in future.
 - Better organising and documenting my respositories.
-- [Portfolio](https://challenge-rouge.vercel.app/)
+- [Portfolio](https://challenge-rouge.vercel.app/).
+- Get my first Web Dev job :).
 
 #### 🌱 Challenges that I’m currently challenging myself:
 
